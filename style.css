@@ -20,10 +20,20 @@
     list-style: none;
     padding: 28px 0;
 }
-.sb{
+.sidebar nav li a{
     text-decoration: none;
     color: black;
+    padding: 5px;
 }
+
+.sidebar nav li a{
+    transition: all 0.3s linear;
+}
+.sidebar nav li a:hover{
+    color: blanchedalmond;
+    background-color: black;
+}
+
 .main{
     /* background-color: blanchedalmond; */
     width: 90vw;
@@ -189,10 +199,10 @@
 .cross{
     /* margin-left: 150px ; */
     width: 26px;
-    margin-left: 105px;
+    margin-left: 130px;
 }
 /* Contact */
- .contact {
+.contact {
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -237,4 +247,10 @@ a:hover i {
 
 .fa-instagram {
     color: rgb(195, 42, 163);
-} 
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+}
