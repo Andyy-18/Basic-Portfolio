@@ -20,7 +20,7 @@
     list-style: none;
     padding: 28px 0;
 }
-.sidebar nav li a{
+.sb{
     text-decoration: none;
     color: black;
 }
@@ -192,14 +192,14 @@
     margin-left: 105px;
 }
 /* Contact */
-.contact {
+ .contact {
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-a1 {
+a {
     height: 100px;
     width: 100px;
     background-color: rgb(241, 238, 234);
@@ -210,12 +210,12 @@ a1 {
     box-shadow: 1px 4px 2px 2px rgb(164, 161, 156);
 }
 
-a1 i {
+a i {
     font-size: 30px;
     transition: all 0.3s linear;
 }
 
-a1:hover i {
+a:hover i {
     transform: scale(1.35);
 }
 
@@ -237,4 +237,4 @@ a1:hover i {
 
 .fa-instagram {
     color: rgb(195, 42, 163);
-}
+} 
