@@ -3,11 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
-html {
-    background: url(images/coding_notebook_desk.jpg) no-repeat center center fixed;
-}
-
 .sidebar{
     background-color: rgb(182, 191, 188);
     /* width: 250px; */
@@ -48,7 +43,6 @@ html {
 }
 .container{
     display: flex;
-    color: white;
 }
 .info{
     /* background-color: rgb(233, 139, 105); */
