@@ -13,6 +13,7 @@ nav ul{
     align-items: center;
     /* background-color: red; */
 }
+
 .sidebar{
     background-color: rgb(182, 191, 188);
     /* width: 250px; */
@@ -53,7 +54,6 @@ nav ul{
 }
 .container{
     display: flex;
-    color: white;
 }
 .info{
     /* background-color: rgb(233, 139, 105); */
