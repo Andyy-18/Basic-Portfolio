@@ -41,7 +41,7 @@ nav ul{
     transition: all 0.3s linear;
 }
 .sidebar nav li a:hover{
-    color: blanchedalmond;
+    color: orange;
     background-color: black;
 }
 
@@ -62,7 +62,8 @@ nav ul{
     margin: 134px auto;
     height: 55vh;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
     /* flex-wrap: wrap; */
 }
 .devinfo{
