@@ -23,7 +23,7 @@ nav ul{
     position: absolute;
 }
 .sidebar nav{
-    padding: 24px;
+    padding: 30px;
     margin-top: 35px;
 }
 .sidebar nav li{
@@ -33,7 +33,7 @@ nav ul{
 }
 .sidebar nav li a{
     text-decoration: none;
-    color: black;
+    color: yellow;
     padding: 5px;
 }
 
@@ -72,7 +72,7 @@ nav ul{
     flex-direction: column;
 }
 .devpic img{
-    height: 55vh;
+    height: 55rem;
 }
 .hello{
     font-size: 75px;
@@ -165,7 +165,7 @@ nav ul{
     font-weight: 900;
 }
 .skillcontainer{
-    padding: 8px;
+    padding: 89x;
 }
 .s90{
     width: 250px;
@@ -177,7 +177,7 @@ nav ul{
 }
 .s50{
     width: 155px;
-    background-color: rgb(238, 255, 0);
+    background-color: rgb(238, 266, 0);
 }
 .s40{
     width: 120px;
@@ -254,7 +254,7 @@ a:hover i {
 }
 
 .fa-twitter {
-    color: rgb(46, 156, 240);
+    color: rgb(49, 156, 240);
 }
 
 .fa-instagram {
@@ -264,5 +264,5 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 28px;
+    font-size: 30px;
 }
